@@ -32,7 +32,7 @@ def mapclub():
         print ("FAILED")
         sys.exit()
 os.system("clear")
-print ("""\033[1;97mSPAM SMS UNLIMITE
+print ("""\033[1;97mSPAM SMS UNLIMITED
 \033[1;97mCreator:\033[1;96mRuang Coder
 \033[1;97mYoutube:\033[1;96mRuang Coder
 \033[1;97mContoh Nomor:\033[1;96mGunakan 62
